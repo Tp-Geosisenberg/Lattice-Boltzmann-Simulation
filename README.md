@@ -4,10 +4,10 @@ Thank you for an article from Philip Mocz , (https://medium.com/@philip-mocz) if
 
 ![MAPPING](Image/Tables.png)
 
-######(refer image : https://www.researchgate.net/publication/332077856_Multiscale_Simulation_of_Elongated_Particles_in_Fluidised_Beds)
+###### (refer image : https://www.researchgate.net/publication/332077856_Multiscale_Simulation_of_Elongated_Particles_in_Fluidised_Beds)
 
-# Result in
-
+# Result in Lattice-Boltzmann-Simulation 
+  
 ![numNt1](Image/1.png)
 ###### Number of variable Nt: 1
 
