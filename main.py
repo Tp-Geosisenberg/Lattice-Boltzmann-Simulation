@@ -1,7 +1,7 @@
 import numpy as np
 from matplotlib import pyplot
 from tqdm import tqdm
-fig = pyplot.figure( figsize=(8,8))
+
 
 def main():
     Nx = 400
@@ -36,8 +36,7 @@ def main():
     cylinder = (X - Nx/4)**2 + (Y - Ny/2)**2 < (Ny/4)**2
         #Simulation <Main>
 
-    for it in range(Nt):
-        print(it)
+    for it in tqdm(range(Nt)):       
         for i , cx, cy in zip(idxs, cxs, cys):
             F[:,:,i] = np.roll(F[:,:,i], cx, axis=1)
             F[:,:,i] = np.roll(F[:,:,i], cy, axis=0)
