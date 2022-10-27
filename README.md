@@ -10,5 +10,5 @@ Thank you for an article from Philip Mocz , (https://medium.com/@philip-mocz) if
 ![numNt10](Image/10.png)
 ![numNt1000](Image/1000.png)
 ![numNt5k](Image/5000.png)
-![numNt10k](Image/Tables.png)
+![numNt10k](Image/10k.png)
 ![numNt100k](Image/Tables.png)
