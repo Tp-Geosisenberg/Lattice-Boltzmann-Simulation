@@ -5,3 +5,10 @@ Thank you for an article from Philip Mocz , (https://medium.com/@philip-mocz) if
 ![MAPPING](Image/Tables.png)
 
 (refer image : https://www.researchgate.net/publication/332077856_Multiscale_Simulation_of_Elongated_Particles_in_Fluidised_Beds)
+
+![numNt1](Image/1.png)
+![numNt10](Image/10.png)
+![numNt1000](Image/1000.png)
+![numNt5k](Image/5000.png)
+![numNt10k](Image/Tables.png)
+![numNt100k](Image/Tables.png)
