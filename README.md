@@ -9,22 +9,22 @@ Thank you for an article from Philip Mocz , (https://medium.com/@philip-mocz) if
 # Result in Lattice Boltzmann method
   
 ![numNt1](Image/1.png)
-###### Number of variable Nt: 1
+###### Number of variable Nt: 1 (Old Version)
 
 ![numNt10](Image/10.png)
-###### Number of variable Nt: 10
+###### Number of variable Nt: 10 (Old Version)
 
 ![numNt1000](Image/1000.png)
-###### Number of variable Nt: 1000
+###### Number of variable Nt: 1000 (Old Version)
 
 ![numNt5k](Image/5000.png)
-###### Number of variable Nt: 5000
+###### Number of variable Nt: 5000 (Old Version)
 
 ![numNt10k](Image/10k.png)
-###### Number of variable Nt: 10 000
+###### Number of variable Nt: 10 000 (Standard)
 
 ![numNt12k](Image/12k.png)
-###### Number of variable Nt: 12 000
+###### Number of variable Nt: 12 000 (Standard)
 
 ![numNt15k](Image/15k.png)
-###### Number of variable Nt: 15 000
+###### Number of variable Nt: 15 000 (Standard)
