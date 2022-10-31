@@ -6,6 +6,9 @@ Thank you for an article from Philip Mocz , (https://medium.com/@philip-mocz) if
 
 ###### (refer image : https://www.researchgate.net/publication/332077856_Multiscale_Simulation_of_Elongated_Particles_in_Fluidised_Beds)
 
+# Consider 
+If you observe the system by view point of Macroscopic. you will hardly to understanding the natural becuase of viewpoint this is complexly to consider the system at observe so whether you must to studies about Marcoscopic and Navier-Stokes , etc could to understanding a fundermental theorem of Lattice Boltzmann Method, which that is important concept and consist of Marcoscopic. but you should to accept a main idea about thermodynamics between static machine to connection viewpoint of Microscopic to Macroscopic by Mesoscopic
+
 # Result in Lattice Boltzmann method
   
 ![numNt1](Image/1.png)
