@@ -28,3 +28,9 @@ Thank you for an article from Philip Mocz , (https://medium.com/@philip-mocz) if
 
 ![numNt15k](Image/15k.png)
 ###### Number of variable Nt: 15 000 (Standard)
+
+# Update now
+- ** [31/10/22] ** I fixed the generator image to the frame's image ,which look like vdieo frame by frame
+
+# Bug and Problems 
+- ** [31/10/22] ** I think my coding is a problem due to this using more time to calculate and plot,which might mean the algorithm is not best to use
