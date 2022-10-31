@@ -11,6 +11,7 @@ If you observe the system from the point of macroscopical You will hardly to und
 
 - (Road Map)Fundermental theorem the Lattice Boltzmann Method(LBM) and Computational fluid dynamics(CFD)
   - Thermodynamics
+    - Test
   - Static mechanics
   - Newtonian mechanics
   - Navier-Stokes
