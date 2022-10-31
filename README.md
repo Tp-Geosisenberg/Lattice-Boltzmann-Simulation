@@ -9,6 +9,12 @@ Thank you for an article from Philip Mocz , (https://medium.com/@philip-mocz) if
 # Consider 
 If you observe the system from the point of macroscopical You will hardly to understand the natural because of the viewpoint. this is complex to consider the system at observe so whether you must to study Marcoscopic and Navier-Stokes , etc., could to understand a fundermental theorem the Lattice Boltzmann Method, which an important concept and consists of Marcoscopic. But you should accept the main idea of thermodynamics between static mechanics to  microscopic and macroscopic by mesoscopic
 
+- (Road Map)Fundermental theorem the Lattice Boltzmann Method(LBM) and Computational fluid dynamics(CFD)
+  - Thermodynamics
+  - Static mechanics
+  - Newtonian mechanics
+  - Navier-Stokes
+
 # Result in Lattice Boltzmann method
   
 ![numNt1](Image/1.png)
